@@ -15,7 +15,7 @@ import cn.hi321.android.media.utils.ImageLoader;
 
 import com.android.china.R;
 
-public234 class ChannelMovie extends BaseAdapter {
+public2345 class ChannelMovie extends BaseAdapter {
 
 	private ArrayList<BaiDuRecommend> items;
 	private LayoutInflater mInflater;	
